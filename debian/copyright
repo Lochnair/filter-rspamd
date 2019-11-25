@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: filter-rspamd
+Source: https://github.com/poolporg/filter-rspamd
+Files-Excluded:
+  Godeps/_workspace
+
+Files: *
+Copyright: 2019 Gilles Chehade
+License: ISC
+
+Files: debian/*
+Copyright: 2019 TODO <TODO>
+License: ISC
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: ISC
+TODO
